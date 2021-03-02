@@ -1,3 +1,3 @@
-# dotnet-vaquinha-tests
+# dio-dotnet-vaquinha-tests
 
-Projeto Base para Testes - .Net Core
+## Projeto base para testes em .Net Core
